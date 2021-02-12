@@ -253,8 +253,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 
 </style>
+
 ####
-</style>
+
+<style>
 
 .gs-section-03 h3 { 
      color: purple;
