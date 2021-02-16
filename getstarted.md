@@ -258,15 +258,14 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-03 body {
-background-color: powderblue;}
-
 .gs-section-03 h3 { 
      color: purple;
+     font-family: verdana;
      font-size: 30px;
      margin-top: 10px;}
 
 .gs-section-03 p {
+     border: 2px solid powderblue;
      line-height: 2
 }
 
