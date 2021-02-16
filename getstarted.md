@@ -264,7 +264,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      margin-top: 10px;}
 
 .gs-section-03 p {
-     line-height: 1.8
+     line-height: 2
 }
 
 </style>
