@@ -242,7 +242,9 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 
 </style>
-####
+
+
+
 <style>
      
 .gs-section-02 h3 { 
@@ -250,11 +252,12 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-02 p {
      font-size: 10px;
+     font-family: papyrus;
 }
 
 </style>
 
-####
+
 
 <style>
 
