@@ -44,7 +44,7 @@ This is based/expanded on the theory/work/extension of...
 
 A basic example shows how...
 
-```{r basicconsole}
+```{r}
 
 # test code
 head(mcars)
