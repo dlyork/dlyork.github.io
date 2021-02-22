@@ -50,7 +50,7 @@ A basic example shows how...
 ```{r}
 
 # test code
-head(mcars)
+head(cars)
 
 ```
 
