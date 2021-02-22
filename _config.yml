@@ -104,7 +104,7 @@ feed_show_tags: true
 navbar-col: "#364daa" #"#FFE4C4"
 navbar-text-col: "#6ace9f" #"#BA6032" #"#C5754C" #"#404040"
 navbar-border-col: "#6ace9f" #"#BA6032" #"#C5754C" #"#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#e2e2e2" #"#FFFFFF"
 text-col: "#6ace9f" #"#BA6032" #"#C5754C" #"A0522D" #"#404040"
 link-col: "#6aae72" #"#FF7C70" #"#008AFF"
 hover-col: "#1ac19f" #"#364daa" #"#FF6C64" #"#0085A1"
