@@ -22,7 +22,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted" 
-    - CPP 527 Code-Through: "CPP527CodeTemplate" #"Code-Through"
+    - CPP 527 Code-Through: "" #"CPP527CodeTemplate" #"Code-Through"
   Author's home: ""
   Table Demo: "table-demo"
 
