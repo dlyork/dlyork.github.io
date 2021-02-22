@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Code-Through
+output:
+  html_document
 ---
 
 # Introduction
