@@ -46,7 +46,8 @@ A basic example shows how...
 
 ```{r}
 
-# Some code
+# test code
+head(mcars)
 
 ```
 
